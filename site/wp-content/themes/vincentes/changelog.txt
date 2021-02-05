@@ -1,0 +1,51 @@
+Version 1.1.3
+    	Added:
+    		- Compatibility with WP 5.2.2
+    		- Compatibility with PHP7.3
+
+        Fixed:
+            - Update plugins to their latest versions
+
+        Changed:
+    		- Update demo data
+
+Version 1.1.2
+    	Added:
+    		- Compatibility with WP 5.1
+    		- Compatibility with PHP7.2
+            - Alert to Demo data installation
+            - Privacy Policy page
+
+        Fixed:
+            - Compatibility with Gutenberg
+            - Update plugins to their latest versions
+            - Improve theme styles
+            - Scripts libraries updated
+
+        Changed:
+            - Update default contact forms to make them GDPR-compliant
+    		- Update demo data
+
+
+Version 1.1.1
+    WordPress Version 4.9.6 ready
+    Compatibility with PHP7.1.x
+    Updated WPBakery Page Builder Extensions All In One to its latest version
+    Updated Revolution Slider to its latest version
+    Updated WPBakery Page Builder to its latest version
+    Updated Essential Grid to its latest version
+    Updated Contact Form 7 to its latest version
+    Updated demo data
+    Fixed Contact Form 7 Datepicker
+    Fixed shortcode WPBakery Page Builder in PHP7.1.x
+    Fixed WooCommerce 3.3.x
+    Fixed Imports
+    Added new CSS styles
+
+Version 1.1
+	Plugins updated
+	Documentation updated
+	Dummy data import fixed
+
+Version 1.0
+	Release
